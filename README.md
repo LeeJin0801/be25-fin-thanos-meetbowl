@@ -133,11 +133,11 @@
 <br>
 
 ## 12. CI/CD 계획서
-
+[CI/CD 계획서](https://github.com/beyond-sw-camp/be25-fin-thanos-meetbowl/blob/main/file/pdf/meetbowl-ci-cd-plan.pdf)
 <br>
 
 ## 13. 통합 테스트 결과서
-
+[통합 테스트 결과서](https://github.com/beyond-sw-camp/be25-fin-thanos-meetbowl/blob/main/file/pdf/meetbowl-test-result.pdf)
 <br>
 
 ## 14. 향후 개선 계획
