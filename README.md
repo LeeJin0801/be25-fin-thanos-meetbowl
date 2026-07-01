@@ -102,7 +102,8 @@
 | **협업 도구** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) |
 
 ## 6. 시스템 아키텍쳐
-<img width="1924" height="1324" alt="image" src="https://github.com/user-attachments/assets/bc5becdd-368c-47f2-875f-74d60a9ebbda" />
+<img width="1924" height="1324" alt="image" src=<img width="3644" height="2988" alt="meetbowl-archtecture drawio" src="https://github.com/user-attachments/assets/02d7ac45-ecad-400e-a107-418f10204f58" />
+" />
 
 
 ## 7. 데이터베이스 설계 (ERD)
