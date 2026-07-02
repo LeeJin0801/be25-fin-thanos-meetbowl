@@ -102,14 +102,13 @@
 | **협업 도구** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) |
 
 ## 6. 시스템 아키텍쳐
-<img width="1924" height="1324" alt="image" src=<img width="3644" height="2988" alt="meetbowl-archtecture drawio" src="https://github.com/user-attachments/assets/02d7ac45-ecad-400e-a107-418f10204f58" />
-" />
+<img width="3644" height="2988" alt="meetbowl-archtecture drawio" src="https://github.com/user-attachments/assets/02d7ac45-ecad-400e-a107-418f10204f58" />
 
 
 ## 7. 데이터베이스 설계 (ERD)
-[ERD]((https://www.erdcloud.com/d/dRyS7PZbFQSijDuDi)
+[ERD](https://www.erdcloud.com/d/dRyS7PZbFQSijDuDi)
 
-<img width="1930" height="1330" alt="meetbowl" src="https://github.com/user-attachments/assets/66637be3-f064-4db5-a451-05c959c69a12" />
+<img width="6000" height="3832" alt="meetbowl final" src="https://github.com/user-attachments/assets/2c886914-5948-49bf-8164-98d796ea4c3d" />
 
 <br>
 
