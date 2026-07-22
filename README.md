@@ -1,7 +1,7 @@
 #  회의 중심 업무 지식 관리 플랫폼, Meetbowl 💻
 <img width="1672" height="941" alt="meetbowl이미지_" src="https://github.com/user-attachments/assets/2391cd46-fc46-427f-9a9b-c19dcb3cbc41" />
 
-📺 **[Meetbowl 시연영상 보러가기 (Youtube)]()**  
+📺 **[Meetbowl 시연영상 보러가기 (Youtube)](https://youtu.be/KenE7xzqJiY?si=R4WPOjtlcysPnhqb)**  
 
 
 <br>
